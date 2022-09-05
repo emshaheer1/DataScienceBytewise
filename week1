@@ -1,0 +1,125 @@
+Data Science:  
+  	Simply data science means collection of data through which a human or a machine can predict, can make decisions and have the ability of solving real world business problems but the data that is collected should be complete because incomplete data can lead to major problems.  
+Data Science has mainly three parts:  
+1.	Collection of data  
+2.	Analyzing of data  
+3.	Insight of data in order to solve business problems  
+In past when internet was newly introduced so at that time the data was to small so a few people were needed for the analyzing of data but now data is too much big and have become big data so now machines, robots and software’s are also used for the analyzing of data.  
+Data Science Is basically a full tree and its roots are:  
+1.	Artificial Intelligence  
+2.	Machine learning  
+3.	Deep learning  
+Now a day’s data science is widely used by many big companies and many famous companies have also invested in it for example Tesla. Tesla is now a days working on self-driving car. Another example can be the Netflix which takes the data from you and recommends you a movie according to the movie you previously watched.  
+Now the question is that how we can learn data science??  
+So there are 5 steps:  
+1.	Learning a programming language  
+a.	Python( pandas and numpy library)  
+b.	R  
+2.	Learning statistics (mean median mode standard deviation etc.)  
+3.	Data visualization (graphs charts and tables) ( matplotlib python library) 
+4.	Machine learning  
+5.	After learning all 4 we have to do a project in order to know that what we have learned.   
+   
+Data science can also give answers to the questions:  
+Suppose you want to buy a product let’s say you want to buy a dress for yourself now what would you do.  
+1.	You will search for those shops that sell the dress  
+2.	Than after searching for the shops you will choose that shop that is a brand or famous now a days  
+3.	After that you will search that which shop is providing u a discount.  
+  
+So basically it is a tree that is answering to your questions according to the data that you provide to them. 
+ 
+  
+ 
+Probability:  
+  	 It is a measure of how likely an event is going to occur. Mostly used when we don’t know the outcomes of a specific event.  
+Example:  
+  	If we toss a coin  So Sample Space {H, T} 
+Formula of Probability:  
+  
+P = No of ways an event can occur/ no of possible outcomes or sample space  
+P = ½  
+  
+Mutual exclusive event:  
+  	When we do an experiment and the outcome is a single event not double  Example:  
+Additive rule for mutual exclusive event:  
+  
+  	Tossing a coin:  
+  	Head will occur or tail both cannot occur at the same time.  
+   	P (Head or tail) = P (h) + P (T)  
+  	  	  	= ½ + ½  
+  	  	  	= 1  
+Additive rule for not mutual exclusive event:  
+  	Example:  
+  	Taking a card from the deck:  
+  	P (K or hearts)  
+ P = No of ways an event can occur/ no of possible outcomes or sample space  
+  	P (k) = 4/52  
+  	P (hearts) = 13/52  
+  
+  	P (K or hearts) = P (k) + P (hearts) – P (k n hearts)  
+  	= 4/52 + 13/52 – 1/52  
+  	= 16/52  
+  
+Multiplicative Rule:  
+1.	Independent Event:  
+ No of total outcomes will not be reduced 
+P (a AND b) = P (a) * P (b)  
+  
+Example:  
+ 	  	 Tossing a coin for 3 times:   	  	SS = {h , t , h }  
+  	  	  	P (H) = ½  
+  	  	  	P (t) = ½  
+  	  	  	P (h) = ½  
+2.	Independent event:  
+No of outcomes will be reduced  
+P (a AND b) = P (a) * P (b/a)  
+  
+P(b/a) = conditional probability Example:  
+  	Taking a card from the deck 1st experiment:  
+P (K) = 1/52  
+2nd experiment:  
+P (hearts) = 1/51  
+ 
+ 
+ 
+Enumerative Combinatorics: 
+ 	It deals with the number of ways that certain pattern can be formed. Two examples of these are: 
+1.	Counting combinations 
+2.	Counting permutations 
+ 
+It is just like Systematic counting but it is not as easier as we think as it contains the systematic knowledge. 
+3 principles: 
+1.	Addition  
+2.	Multiplication 
+3.	Inclusion and exclusion 
+4.	Combination and permutation 
+ 
+ 
+Introduction to python: 
+Hello, World! 
+For printing an output via python a programmer is required to write print. 
+Example: 
+  
+Variables and Types: 
+ Python is completely object oriented, and not "statically typed". You do not need to declare variables before using them, or declare their type. Every variable in Python is an object. 
+Python supports two types of numbers 
+1)	Integers (whole number) 
+2)	Floating point (decimals) 
+ 
+Strings: 
+Strings are defined either with a single quote or a double quotes. 
+‘HELLO’ 
+“Shaheer” 
+Lists: 
+Lists are very similar to arrays. They can contain any type of variable. 
+ 
+append() Adds an element at the end of the list copy() 	Returns a copy of the list exactly the same one  extend()  Add the elements of a list to the end of the current list insert() 	Adds an element at the specified position 
+ 
+clear() 	Removes all the elements from the list 
+index() 	Returns the index of the first element with the specified value 
+count() 	Returns the number of elements with the specified value 
+  
+ 
+remove()  Removes the first item with the specified value 
+sort() Sorts the list. 
+pop() Removes the element at the specified position reverse() Reverses the order of the list 
