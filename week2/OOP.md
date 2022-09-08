@@ -1,3 +1,0 @@
-# OOP in Pyhton
-  
--
