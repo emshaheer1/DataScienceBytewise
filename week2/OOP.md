@@ -1,2 +1,3 @@
 # OOP in Pyhton
-  my name is muhammad shaheer
+-Object Oriented Programming is a model that uses classes and objects in programming
+-
